@@ -19,7 +19,20 @@ Webinar info: http://www.nsf.gov/events/event_summ.jsp?cntn_id=134466&org=DGE
 FAQ: http://www.nsf.gov/pubs/2016/nsf16021/nsf16021.jsp
 
 
-## Info about INFEWS
+## Our pitch
+
+We have a key national need for next gen taxonomists. People who are a mixture of muddy boot naturalists with the analytical and methodological skills to predict species movements, create models, etc. UTK EEB (and friends) are uniquely positioned to fill this need.
+
+Average age of current taxonomists is ____. ____ says we need more. But we need those who do more than just quality alpha taxonomy.... Need people who could work at park service, TWRA, etc. Naturalist skills plus spatial analysis, invasive species projection modeling.
+
+partnerships with tva, national park, tremont, ornl
+
+People across campus: fish people, insects, forestry
+
+
+
+
+## Info about INFEWS (though probably not a target)
 
 http://www.nsf.gov/pubs/2016/nsf16524/nsf16524.htm
 
