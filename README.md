@@ -17,3 +17,32 @@ This program provides educational opportunities for  Graduate Students . This pr
 Webinar info: http://www.nsf.gov/events/event_summ.jsp?cntn_id=134466&org=DGE
 
 FAQ: http://www.nsf.gov/pubs/2016/nsf16021/nsf16021.jsp
+
+
+## Our pitch
+
+We have a key national need for next gen taxonomists. People who are a mixture of muddy boot naturalists with the analytical and methodological skills to predict species movements, create models, etc. UTK EEB (and friends) are uniquely positioned to fill this need.
+
+Average age of current taxonomists is ____. ____ says we need more. But we need those who do more than just quality alpha taxonomy.... Need people who could work at park service, TWRA, etc. Naturalist skills plus spatial analysis, invasive species projection modeling.
+
+partnerships with tva, national park, tremont, ornl
+
+People across campus: fish people, insects, forestry
+
+
+
+
+## Info about INFEWS (though probably not a target)
+
+http://www.nsf.gov/pubs/2016/nsf16524/nsf16524.htm
+
+NSF Blog on this: https://foodenergywater.wordpress.com
+
+Humanity is reliant upon the physical resources and natural systems of the Earth for the provision of food, energy, and water. It is becoming imperative that we determine how society can best integrate across the natural and built environments to provide for a growing demand for food, water and energy while maintaining appropriate ecosystem services. Factors contributing to stresses in the food, energy, and water (FEW) systems include increasing regional and social pressures and governance issues as result of land use change, climate variability, and heterogeneous resource distribution. These interconnections and interdependencies associated with the food, energy and water nexus create research grand challenges in understanding how the complex, coupled processes of society and the environment function now, and in the future. There is a critical need for research that enables new means of adapting to future challenges. The FEW systems must be defined broadly, incorporating physical processes (such as built infrastructure and new technologies for more efficient resource utilization), natural processes (such as biogeochemical and hydrologic cycles), biological processes (such as agroecosystem structure and productivity), social/behavioral processes (such as decision making and governance), and cyber elements. Investigations of these complex systems may produce discoveries that cannot emerge from research on food or energy or water systems alone. It is the synergy among these components in the context of sustainability that will open innovative science and engineering pathways to produce new knowledge and novel technologies to solve the challenges of scarcity and variability.
+
+The overarching goal of INFEWS is to catalyze the well-integrated interdisciplinary research efforts to transform scientific understanding of the FEW nexus in order to improve system function and management, address system stress, increase resilience, and ensure sustainability. The NSF INFEWS initiative is designed specifically to attain the following goals:
+
+* Significantly advance our understanding of the food-energy-water system through quantitative and computational modeling, including support for relevant cyberinfrastructure;
+* Develop real-time, cyber-enabled interfaces that improve understanding of the behavior of FEW systems and increase decision support capability;
+* Enable research that will lead to innovative system and technological solutions to critical FEW problems; and
+* Grow the scientific workforce capable of studying and managing the FEW system, through education and other professional development opportunities.
