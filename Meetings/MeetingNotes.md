@@ -1,4 +1,4 @@
-*Note arrange with most recent at top*
+*Note: arrange with most recent at top*
 
 # 2016-08-24
 
@@ -12,7 +12,7 @@ Each institution is limited to 2 proposals. There's at least one other going in,
 
 ## Today's goals
 
-* Work through the topic in more detail, brainstorming ideas
+* Work through the topic in more detail, brainstorming ideas.
 * Fill out https://github.com/bomeara/EEB_NRT/blob/master/GrantDocuments/UT_Limited_Submission.md
   * Potential collaborators
   * Info required for 2-3 paragraphs outlining grant
