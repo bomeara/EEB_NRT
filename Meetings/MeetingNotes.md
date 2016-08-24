@@ -56,15 +56,15 @@ Goal: Next gen biodiversity researchers. Taxonomy is part of it, GIS is part of 
 * Have the students connect to each other: some way to have them interact. Partner.
 * Outreach to agencies, Tremont or other educational groups.
 * How to get buy in from faculty. Why encourage students to go intern for a semester, rather than work on your lab's core stuff? How to demonstrate this to NSF.
-*
+* Need a feeling for the organism. Contact with them.
 
 # Agreed
 
-* Next gen Naturalists
+* Next gen biodiversity researchers (not just taxonomists)
 * Internships
 * Meeting to invite outside agencies / groups to ask them what they need in people to hire.
 * Two week field courses
-*
+* Need to instill feeling for the organism.
 
 ## Action items
 
