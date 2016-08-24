@@ -1,5 +1,5 @@
-| Group | Include? | Who to contact | Status | |
-|| -- | -- | -- | -- | |
+| Group | Include? | Who to contact | Status |
+| -- | -- | -- | -- |
 |UT Entomology | | | |
 |Appalachian Landscape Conservation Cooperative, Fish and Wildlife Service | | | |
 |Great Smoky Mountains National Park, National Park Service | | | |
