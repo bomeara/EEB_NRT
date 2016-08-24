@@ -21,7 +21,7 @@ CC: Susan Kalisz, Chris Boake
 
 Subject: O'Meara, Brian C. / EEB / NSF NRT
 
-Name and contact information of PI: Brian O'Meara, bomeara@utk.edu, 865-974-2804 *Note: Susan PI?*
+Name and contact information of PI: Brian O'Meara, bomeara@utk.edu, 865-974-2804
 
 
 Whether the proposal is for the Traineeship or Innovations in Graduate Education track: Traineeship
