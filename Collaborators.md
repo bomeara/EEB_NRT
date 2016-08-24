@@ -17,3 +17,10 @@
 | Tennessee Clean Water Network | | | |
 | Tremont Institute | | | |
 | Eastern Band of the Cherokee | | | |
+| UT FWF | | | |
+| Enviro and civil engineering | | | |
+| USGS | | | |
+| Office of surface mining (US Fish and wildlife service) (includes some of our alumni) | | | |
+| Business school | | | |
+| Unit in sociology with sustainability and environomental science Emphasis | | | |
+| Compass: Prof. dev training, modular. | | | |

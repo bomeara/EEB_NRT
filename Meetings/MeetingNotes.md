@@ -57,8 +57,15 @@ Goal: Next gen biodiversity researchers. Taxonomy is part of it, GIS is part of 
 * Outreach to agencies, Tremont or other educational groups.
 * How to get buy in from faculty. Why encourage students to go intern for a semester, rather than work on your lab's core stuff? How to demonstrate this to NSF.
 * Need a feeling for the organism. Contact with them.
+* Two tracks or one track? The skills could apply to everybody. Group seems to agree on one track that leads to many outcomes.
 
-# Agreed
+
+## Training
+* Statistics
+* Natural history
+* Project dev
+
+## Agreed
 
 * Next gen biodiversity researchers (not just taxonomists)
 * Internships
@@ -69,3 +76,4 @@ Goal: Next gen biodiversity researchers. Taxonomy is part of it, GIS is part of 
 ## Action items
 
 * Summarize material & submit to research office: **Brian**
+* Talk to Sharon Pound with ORE
