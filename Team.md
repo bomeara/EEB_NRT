@@ -1,5 +1,4 @@
-Brian O'Meara
-Susan Kalisz
-Karen Hughes
-Dan Simberloff
-
+* Brian O'Meara
+* Susan Kalisz
+* Karen Hughes
+* Dan Simberloff
