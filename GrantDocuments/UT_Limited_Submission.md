@@ -30,6 +30,8 @@ The Priority Interdisciplinary Research area (UtB, INFEWS, other): Other: biodiv
 
 Whether it will be a Non-Collaborative or Collaborative (Lead, Non-lead, subawardee) proposal: Non-collaborative *right?*
 
-List of potential collaborators: **Add here**
+List of potential collaborators: Here is our list of potential collaborators; we'll be contacting them in early September.
+
+
 
 Brief (2 -3 paragraphs) explanation of proposed research or program: **Add here**

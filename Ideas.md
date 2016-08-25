@@ -22,3 +22,7 @@ Paul: Potential collaborators
 
 
 Charlie: tracking pollinators by sequencing pollen; tracking bear movements correlated with phenology
+
+https://www.nanoporetech.com/ : We might take a look at thus “pocket” nextgen sequencing.  Cost $1000.   It requires 200 ng DNA.  This can sequence an entire virus genome and can prepare a 7X library in an extremely short time. 48 flow cells.   This kind of technology could be included in a training module for students for the training grant proposal together with genomic sequencing.  Anyone up for giving it a try?
+
+Report from another IGERT: http://lsfss.wceruw.org/documents/Building_a_Better_Future_STEM_Faculty.pdf, executive summary at http://lsfss.wceruw.org/documents/LSFSS_report_Brief%209_FINAL.pdf

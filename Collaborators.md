@@ -1,6 +1,10 @@
 | Group | Include | Who to contact | Status |
 | ----    | ----      | ----             | ----    |
-| UT Entomology |  |  |  |
+| UT Entomology & PLant Pathology |  |  |  |
+| UT Forestry, Wildlife, and Fisheries  | | | |
+| UT Civil and Environmental Engineering | | | |
+| Haslam College of Business | | | |
+| UTK Center for Impact Careers, focus on Environmental Sustainability | | | |
 | Appalachian Landscape Conservation Cooperative, Fish and Wildlife Service | | | |
 | Great Smoky Mountains National Park, National Park Service | | | |
 | Cherokee, Nantahala & Pisgah National Forests,  US Forest Service | | | |
@@ -14,13 +18,11 @@
 | The Nature Conservancy | | | |
 | NatureServe / The Natural Heritage Network | | | |
 | The Wilderness Society | | | |
-| Tennessee Clean Water Network | | | |
+| Tennessee Clean Water Network | | Shelby Ward (Armsworth alum) | |
 | Tremont Institute | | | |
 | Eastern Band of the Cherokee | | | |
-| UT FWF | | | |
-| Enviro and civil engineering | | | |
 | USGS | | | |
 | Office of surface mining (US Fish and wildlife service) (includes some of our alumni) | | | |
-| Business school | | | |
-| Unit in sociology with sustainability and environomental science Emphasis | | | |
 | Compass: Prof. dev training, modular. | | | |
+| Sean Campagna for metabolomics | | | |
+| Mac Post | | | |
