@@ -1,6 +1,6 @@
 | Group | Include | Who to contact | Status |
 | ----    | ----      | ----             | ----    |
-| UT Entomology & PLant Pathology |  |  |  |
+| UT Entomology & Plant Pathology |  |  |  |
 | UT Forestry, Wildlife, and Fisheries  | | | |
 | UT Civil and Environmental Engineering | | | |
 | Haslam College of Business | | | |
