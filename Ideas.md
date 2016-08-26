@@ -22,3 +22,8 @@ Paul: Potential collaborators
 
 
 Charlie: tracking pollinators by sequencing pollen; tracking bear movements correlated with phenology
+
+Training in GRFP, DDIG, writing, posters
+
+Piggyback off paul and nina nimbios group
+
