@@ -26,3 +26,11 @@
 | Compass: Prof. dev training, modular. | | | |
 | Sean Campagna for metabolomics | | | |
 | Mac Post | | | |
+| Math | | | |
+| Geography | | | |
+| Computer Science or Stats | | | |
+| EPS | | | |
+| Economics | | | |
+| AREC (which is a different department to Econ) | | | |
+| Philosophy | | | |
+| Maybe Micro or BCMB | | | |
