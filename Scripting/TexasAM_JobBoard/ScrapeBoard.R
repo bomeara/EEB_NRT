@@ -1,4 +1,8 @@
 library(rvest)
+library(knitr)
+library(tm)
+library(SnowballC)
+library(wordcloud)
 
 
 CompileInformation <- function(url) {
@@ -10,7 +14,7 @@ CompileInformation <- function(url) {
 }
 
 ExtractJobs <- function(existing.jobs=data.frame(url="none")) {
-	
+
 	urls <- c("http://wfscjobs.tamu.edu/job-board/", paste("http://wfscjobs.tamu.edu/job-board/page/", c("2", "3", "4"), sep=""))
 	breakrun=FALSE
 	for (i in sequence(length(urls))) {
@@ -23,13 +27,13 @@ ExtractJobs <- function(existing.jobs=data.frame(url="none")) {
 			new.row <- CompileInformation(links[l])
 			Sys.sleep(runif(1,5,15))
 			if(new.row$url %in% existing.jobs$url) {
-				breakrun=TRUE
-				break()
+				#breakrun=TRUE
+				#break()
 			} else {
 				existing.jobs <- merge(existing.jobs, new.row, all=TRUE)
 			}
 			print(paste("done",l,"of",length(links),"on page",i))
-			
+
 			save(existing.jobs, file="jobs.rda")
 		}
 		save(existing.jobs, file="jobs.rda")
@@ -38,5 +42,27 @@ ExtractJobs <- function(existing.jobs=data.frame(url="none")) {
 	return(existing.jobs)
 }
 
-existing.jobs <- ExtractJobs()
+ProcessForWordCloud <- function(x) {
+	#borrowing liberally from https://www.r-bloggers.com/building-wordclouds-in-r/
+	corpus <- Corpus(VectorSource(x))
+	corpus <- tm_map(corpus, PlainTextDocument)
+	corpus <- tm_map(corpus, removePunctuation)
+	corpus <- tm_map(corpus, removeNumbers)
+	corpus <- tm_map(corpus, stripWhitespace)
+	corpus <- tm_map(corpus, removeWords, c('the', 'this', stopwords('english')))
+	return(corpus)
+}
 
+
+load("jobs.rda")
+existing.jobs <- ExtractJobs(existing.jobs)
+library(knitr)
+cat(kable(existing.jobs, format="markdown"), file="jobs.md")
+
+png(file="Qualifications.png")
+wordcloud(ProcessForWordCloud(existing.jobs$Qualifications), max.words=100)
+dev.off()
+
+png(file="Description.png")
+wordcloud(ProcessForWordCloud(existing.jobs$Description), max.words=100)
+dev.off()
