@@ -66,3 +66,6 @@ dev.off()
 png(file="Description.png")
 wordcloud(ProcessForWordCloud(existing.jobs$Description), max.words=100)
 dev.off()
+
+system('git commit -m"update from run" -a')
+system('git push')
