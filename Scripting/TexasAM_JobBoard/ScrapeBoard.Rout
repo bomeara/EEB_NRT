@@ -1,0 +1,85 @@
+
+R version 3.3.1 (2016-06-21) -- "Bug in Your Hair"
+Copyright (C) 2016 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin13.4.0 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> library(rvest)
+Loading required package: xml2
+> 
+> 
+> CompileInformation <- function(url) {
++ 	page <- read_html(url)
++ 	info <- data.frame(t(html_text(html_nodes(page, ".job-posting-dd"))))
++ 	colnames(info) <- gsub(" ","_",html_text(html_nodes(page, ".job-posting-dt")))
++ 	info$url=url
++ 	return(info)
++ }
+> 
+> ExtractJobs <- function(existing.jobs=data.frame(url="none")) {
++ 	
++ 	urls <- c("http://wfscjobs.tamu.edu/job-board/", paste("http://wfscjobs.tamu.edu/job-board/page/", c("2", "3", "4"), sep=""))
++ 	breakrun=FALSE
++ 	for (i in sequence(length(urls))) {
++ 		if(breakrun) {
++ 			break()
++ 		}
++ 		links <- html_text(html_nodes(read_html(urls[i]), xpath= "//a/@href"))
++ 		links <- links[grepl('http://wfscjobs.tamu.edu/jobs/', links)]
++ 		for (l in sequence(length(links))) {
++ 			new.row <- CompileInformation(links[l])
++ 			Sys.sleep(runif(1,5,15))
++ 			if(new.row$url %in% existing.jobs$url) {
++ 				breakrun=TRUE
++ 				break()
++ 			} else {
++ 				existing.jobs <- merge(existing.jobs, new.row, all=TRUE)
++ 			}
++ 			print(paste("done",l,"of",length(links),"on page",i))
++ 			
++ 			save(existing.jobs, file="jobs.rda")
++ 		}
++ 		save(existing.jobs, file="jobs.rda")
++ 
++ 	}
++ 	return(existing.jobs)
++ }
+> 
+> existing.jobs <- ExtractJobs()
+[1] "done 1 of 200 on page 1"
+[1] "done 2 of 200 on page 1"
+[1] "done 3 of 200 on page 1"
+[1] "done 4 of 200 on page 1"
+[1] "done 5 of 200 on page 1"
+[1] "done 6 of 200 on page 1"
+[1] "done 7 of 200 on page 1"
+[1] "done 8 of 200 on page 1"
+[1] "done 9 of 200 on page 1"
+[1] "done 10 of 200 on page 1"
+[1] "done 11 of 200 on page 1"
+[1] "done 12 of 200 on page 1"
+[1] "done 13 of 200 on page 1"
+[1] "done 14 of 200 on page 1"
+[1] "done 15 of 200 on page 1"
+[1] "done 16 of 200 on page 1"
+[1] "done 17 of 200 on page 1"
+[1] "done 18 of 200 on page 1"
+[1] "done 19 of 200 on page 1"
+[1] "done 20 of 200 on page 1"
+[1] "done 21 of 200 on page 1"
+[1] "done 22 of 200 on page 1"
+[1] "done 23 of 200 on page 1"
+[1] "done 24 of 200 on page 1"
