@@ -24,12 +24,12 @@ ExtractJobs <- function(existing.jobs=data.frame(url="none")) {
 		links <- html_text(html_nodes(read_html(urls[i]), xpath= "//a/@href"))
 		links <- links[grepl('http://wfscjobs.tamu.edu/jobs/', links)]
 		for (l in sequence(length(links))) {
-			new.row <- CompileInformation(links[l])
-			Sys.sleep(runif(1,5,15))
-			if(new.row$url %in% existing.jobs$url) {
+			if(links[l] %in% existing.jobs$url) {
 				#breakrun=TRUE
 				#break()
 			} else {
+				new.row <- CompileInformation(links[l])
+				Sys.sleep(runif(1,5,15))
 				existing.jobs <- merge(existing.jobs, new.row, all=TRUE)
 			}
 			print(paste("done",l,"of",length(links),"on page",i))
