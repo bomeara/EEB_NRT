@@ -56,8 +56,8 @@ ProcessForWordCloud <- function(x) {
 
 load("jobs.rda")
 existing.jobs <- ExtractJobs(existing.jobs)
-library(knitr)
-cat(kable(existing.jobs, format="markdown"), file="jobs.md")
+#library(knitr)
+#cat(kable(existing.jobs, format="markdown"), file="jobs.md")
 
 png(file="Qualifications.png")
 wordcloud(ProcessForWordCloud(existing.jobs$Qualifications), max.words=100)
