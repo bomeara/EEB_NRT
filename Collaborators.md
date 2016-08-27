@@ -33,4 +33,5 @@
 | Economics | | | |
 | AREC (which is a different department to Econ) | | | |
 | Philosophy | | | |
-| Maybe Micro or BCMB | | | |
+| Microbiology | | | |
+| BCMB | | | |
