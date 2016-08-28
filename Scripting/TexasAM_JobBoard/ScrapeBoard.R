@@ -59,6 +59,8 @@ existing.jobs <- ExtractJobs(existing.jobs)
 #library(knitr)
 #cat(kable(existing.jobs, format="markdown"), file="jobs.md")
 
+write.csv(existing.jobs, file="jobs.csv")
+
 png(file="Qualifications.png")
 wordcloud(ProcessForWordCloud(existing.jobs$Qualifications), max.words=100)
 dev.off()
