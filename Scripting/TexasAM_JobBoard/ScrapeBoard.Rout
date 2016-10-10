@@ -120,3 +120,16 @@ null device
           1 
 > 
 > system('git commit -m"update from run" -a')
+[master f3a9d48] update from run
+ 7 files changed, 1264 insertions(+), 1483 deletions(-)
+ rewrite Scripting/TexasAM_JobBoard/Description.png (97%)
+ rewrite Scripting/TexasAM_JobBoard/Qualifications.png (97%)
+ rewrite Scripting/TexasAM_JobBoard/ScrapeBoard.Rout (86%)
+ rewrite Scripting/TexasAM_JobBoard/jobs.rda (87%)
+> system('git push')
+To github.com:bomeara/EEB_NRT.git
+   291b07a..f3a9d48  master -> master
+> 
+> proc.time()
+   user  system elapsed 
+ 12.677   3.346 223.884 
