@@ -25,8 +25,8 @@ ExtractJobs <- function(existing.jobs=data.frame(url="none")) {
 		links <- links[grepl('http://wfscjobs.tamu.edu/jobs/', links)]
 		for (l in sequence(length(links))) {
 			if(links[l] %in% existing.jobs$url) {
-				#breakrun=TRUE
-				#break()
+				breakrun=TRUE
+				break()
 			} else {
 				new.row <- CompileInformation(links[l])
 				Sys.sleep(runif(1,5,15))
