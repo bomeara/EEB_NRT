@@ -1,3 +1,10 @@
+Nov 19, 2016
+
+Think about priorities from http://www.pnas.org/content/112/16/5081.figures-only 
+
+![check priorities](http://www.pnas.org/content/112/16/5081/F1.medium.gif)
+
+
 Think about real-world applications, esp with Paul, Xingli, and Mona.
 
 http://tntoday.utk.edu/2016/08/03/ut-great-smoky-mountains-national-park-release-biodiversity-web-application/ : Great Smoky Mtns NP natural collaborator for this. Also perhaps JICS.
