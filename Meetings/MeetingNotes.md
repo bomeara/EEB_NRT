@@ -38,6 +38,19 @@
 
 * Ideal split of lines between the departments? Or play by ear?
 
+### Possible internships
+
+* See https://github.com/bomeara/EEB_NRT/blob/master/Ideas.md
+
+## Timeline
+
+* Draft 1: Dec 21
+* Draft 2:
+* Draft 3: Jan 16 (proposal 75% done)
+* Gap analysis: Jan 19 (proposal 90% done, budget done)
+* Cayuse begin: Jan 20
+* Cayuse done: Jan 27
+* Submit to NSF: Feb 3
 
 
 # 2016-08-24
