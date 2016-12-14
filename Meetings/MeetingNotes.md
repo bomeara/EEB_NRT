@@ -44,8 +44,12 @@
 
 ## Timeline
 
+* Budget: Dec 20
+  * 30 student-years (15 students, two years each): $30K
+  * Broader impacts
+  * Coordinator
 * Draft 1: Dec 21
-* Draft 2:
+* Draft 2: Jan 10
 * Draft 3: Jan 16 (proposal 75% done)
 * Gap analysis: Jan 19 (proposal 90% done, budget done)
 * Cayuse begin: Jan 20
