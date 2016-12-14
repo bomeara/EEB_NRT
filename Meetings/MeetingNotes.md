@@ -1,5 +1,45 @@
 *Note: arrange with most recent at top*
 
+# 2016-12-14
+
+## Team discussion
+
+### Introductions
+
+### Feedback from internal review
+
+* Our story is expanding the box of biology training to other types of opportunities besides traditional paths. This doesn't come across yet.
+* The core idea of the grant is good, but it doesn't come across as that innovative or novel.
+* It's not clear how non-core students are being involved.
+* We should be more creative on broader impacts. How can the cores students, through internships or assignments in traditional courses, be put in front of the broader community: presentations, publicize field surveys, service learning, etc.
+* They liked our focus on diverse student recruiting. They suggest more evidence that we do it:
+  * Info about current diversity in our programs (include both US and int'l students)
+  * Evidence of links to HBCUs (not just a drive by looking for students). One thought I had was to pull Ernest Brothers into this: a large part of his current role is fostering relationships between UT and NIMBioS and HBCUs.
+* We should also include data on retention.
+* Having the external evaluators is good, but they were also happy with our internal eval for quality improvement. EEB now has custom sofware for this: could highlight this more (and, my thought, push out to the depts of others involved in the grant to also aggregate this data).
+* It wasn't clear what the non-EEB departments were doing: clarify the structure.
+* They suggested we add more diversity in core faculty, since we're all flavors of biologists. Add folks from business school and/or engineering. Such a person could give links for field placement, talks on management, etc.
+* We say the smokies are diverse, but we should compare to other areas. My thought is heat maps of diversity of various taxa across the US to show this. While we're at it, we could include some other map showing economically why we're the place for the grant: per capita income, college education, wealth, unemployment, etc. Could be compelling, especially for NSF in the future, to show how we have great stuff to study and great need for resources. We could even scrape data on number of people in various bio related professions across the country (i.e., linkedin has an API, though I'm not sure if this sort of use is allowed; I'm also still scraping the Texas A&M jobs board that Charlie recommended).
+
+### Discussion of goals, objectives, etc.
+
+#### Goals of grant
+
+* Training workers in next gen biodiversity
+* Training in management skills
+
+#### Concrete objectives for these goals
+
+#### Activities to accomplish those
+
+#### What to measure
+
+### Balancing between the different depts
+
+* Ideal split of lines between the departments? Or play by ear?
+
+
+
 # 2016-08-24
 
 ## Introduction of grant
