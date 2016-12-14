@@ -14,7 +14,7 @@
 * We should be more creative on broader impacts. How can the cores students, through internships or assignments in traditional courses, be put in front of the broader community: presentations, publicize field surveys, service learning, etc.
 * They liked our focus on diverse student recruiting. They suggest more evidence that we do it:
   * Info about current diversity in our programs (include both US and int'l students)
-  * Evidence of links to HBCUs (not just a drive by looking for students). One thought I had was to pull Ernest Brothers into this: a large part of his current role is fostering relationships between UT and NIMBioS and HBCUs.
+  * Evidence of links to HBCUs
 * We should also include data on retention.
 * Having the external evaluators is good, but they were also happy with our internal eval for quality improvement. EEB now has custom sofware for this: could highlight this more (and, my thought, push out to the depts of others involved in the grant to also aggregate this data).
 * It wasn't clear what the non-EEB departments were doing: clarify the structure.
