@@ -23,6 +23,33 @@
 
 ### Discussion of goals, objectives, etc.
 
+### NOTES
+
+Nontraditional paths: not communicated or not exciting?
+
+What makes this unique or novel: **Need to brainstorm on what makes achieves that.**
+
+Partnering for broader impacts document.
+
+Connections to our existing alumni as potential mentors could be cool aspect.
+
+Letters can have some more info than typical, but watch it.
+
+Forest service has contacts on campus
+
+Our connection with PEER on diversity, recruiting could be strength. Put in grant. They have data on placement, we can get that.
+
+This proposal extends what we've learned from PEER to non-NIH areas of science
+
+Identify what is lacking in institutional and national training.
+
+* Some of this could come from partners
+  * Data on skills that are needed, what training they have to do after the fact
+* Some from mission statements in documents, see what's lacking
+
+Improved communications skills is an expected outcome: must have rubrics for measuring progress (page 9 of RFP)
+  * At UT, Littman has science communications courses. May have rubrics already?
+
 #### Goals of grant
 
 * Training workers in next gen biodiversity
@@ -49,6 +76,7 @@
   * Broader impacts
   * Coordinator
 * Draft 1: Dec 21
+* Jan 6 meeting with group, 9 am
 * Draft 2: Jan 10
 * Draft 3: Jan 16 (proposal 75% done)
 * Gap analysis: Jan 19 (proposal 90% done, budget done)
@@ -56,6 +84,30 @@
 * Cayuse done: Jan 27
 * Submit to NSF: Feb 3
 
+## TODO
+
+* Figure out how to add novelty
+* Look at past NSF grants (on our NRT website)
+* Need to figure out how to communicate we're hitting NSF priorities: 10 big ideas (diversity is one of them), budget link. *Sharon to send to group*
+  * Average age of field scientists is high (65-ish). Aging workforce in govt infrastruture, and they lack the evo, eco, stats knowledge. Need to bridge that knowledge gap. *Brian to find data on this*. Bureau of Labor and Statistics may have data on that, or census.
+  * Smoky Mountains region -- lots of migration into mountains with climate warming *Susan to send paper on this movement*. Also hotspot of diversity. Focus on natural resources: may need wordsmithing.
+  * Workforce development as key need to focus on. Alumni with consulting companies.
+    * *Sharon to connect us with UT Grad school for internships*
+    * Possible to get survey for needs
+    * *Charlie: folks in his dept know contacts for consulting, etc. Connections to agencies*
+    * Department of economic and community development has ideas of needs *Sharon*
+* Grad student outcome
+  * *Brian EEB*
+  * *Meg entomology*
+  * *Charlie forestry*
+  * *Sharon and Brian to talk to Ernest Brothers about UT-level stuff*
+  * *Susan: talk to PEER on data, coordinating with them for recruitment*
+* *Charlie: identify internship partners, talk to them about what they need for Masters and PhD student skills*
+  * Hardest data to get will be "areas of need"
+  * Focus on data that will support proposal goals
+* Start thinking about UT support for sustainability. Is a focus of the RFP, make it explicit.
+  * Look at ways to do sustainability. Could just sustain pieces
+    * Grad internship could be sustained
 
 # 2016-08-24
 
