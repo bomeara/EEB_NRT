@@ -50,6 +50,12 @@ Identify what is lacking in institutional and national training.
 Improved communications skills is an expected outcome: must have rubrics for measuring progress (page 9 of RFP)
   * At UT, Littman has science communications courses. May have rubrics already?
 
+Rubrics for admission of students, how we decide who gets the students in
+
+Zomchick may have info on other diversity.
+
+Mention that the model of training across departments works from PEER example
+
 #### Goals of grant
 
 * Training workers in next gen biodiversity
