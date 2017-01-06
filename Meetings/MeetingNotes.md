@@ -8,7 +8,7 @@
 * Thanos Papanicolaou of Dept of Civil and Enviro Engineering offered help with finding internships and links to existing collaborations, willing to write letter of support. I'd suggest him as a senior personnel to help with this.
 * Ernest Brothers suggested emphasis on mentorship within the program. Unable to join as senior personnel, but we can point to the [Office of Graduate Training and Mentorship](http://gradschool.utk.edu/training-and-mentorship/) for their services with recruitment & retention as well as other services.
   * Other interesting idea: Purpose of grant is not to make mini me's: it's to train students to their own career, and this changes culture of departments. URMs and faculty must learn from each other culturally. Grant is already looking at different cultures academically, could do with other aspects.
-  * Long term outreach 
+  * Long term outreach
 * Word on the street is that sustainability is a key aspect of getting an NRT funded.
 * Office of Career Services will be giving us data on how many students meeting with them from our departments as grad students (spoiler: few)
 * OIRA might not be able to give us info on time to degree, because they don't know when students started.
@@ -21,7 +21,7 @@
    * the accelerating pace of science and engineering discoveries and technological innovations [*arguably us*]
    * national STEM workforce trends [*yep*]
    * the growing internationalization of science and engineering [**NOPE**]
-   * the unrealized potential to align graduate education practices and models with increasing understanding of how people learn [**Not yet us**]
+   * the unrealized potential to align graduate education practices and models with increasing understanding of how people learn [**Not yet us**] (experiential learning initiative, active learning; Barbara's group will be mentioning).
    * In addition there is increasing recognition that addressing the grand challenges in science and engineering requires interdisciplinary and broader professional training that is atypical for most graduate programs. [**Yes**]
 
 Do we want to hit these more? One other thing I've been wrestling with is why the ag school isn't just the solution. They train people for applied careers (clearly not always, but to a far greater degree than liberal arts PhD programs do). **Thoughts?**
@@ -30,6 +30,74 @@ Do we want to hit these more? One other thing I've been wrestling with is why th
 
 Results of surveying potential internship partners
 
+
+### Discussion
+
+Real details on how we can do that. Anything established in place. Follow up with Ernest on materials we can give for recruitment trips. Sharon will follow up on this.
+
+Sustainability: talk about what departments can commit to in the future.
+
+Possible sustainable efforts: Internships to fund students from business in future; soft skills course. Submit research grants based on collabs from the three involved departments. Students must have committee members in 2+ of the 3 committees.
+
+Tuition waivers: how much does NSF want these?
+
+EEB students have TA guarantee.
+
+Sustainability: program coordinator. Kimberly Eck and Stacey Wade will give guidance on that.
+
+Charlie happy to serve as program czar. Question about whether we need a staff person.
+
+Need half to full time project coordinator. So a staff person. To be determined. Decide on the staff duties. Sustainability so what will happen for coverage possibly after the grant finishes.
+
+Enough in the feedback from potential partners to point out deficiencies. For example, writing.
+
+Responses from partners.
+
+* Being able to identify biodiversity in the field
+* Having a technical skill
+  * Data management as part of this
+* Writing skills and grant writing skills
+
+Keep Tewksbury paper -- is congruent with what Charlie is finding.
+
+Were the things that came up most. Leadership, project management didn't come up, but we think it's useful.
+
+Support letters: another grant had departments supporting travel, office space, financial assistance for publications, web support (through office of communications), facilitating matching assignment. What about curriculum changes?
+
+EPP has limited flexibility for coursework, esp for masters. Must take six credit hours from set list. Meg & Kevin will coordinate once we have set idea of requirements.
+
+Summer salary for 12 month faculty could be funded from grant.
+
+EPP has no TA lines, does not pick up tuition.
+
+Need budget meeting.
+
+A floor: at least three students per dept, with some support. EPP can't guarantee funding, so maybe Masters only.
+
+Can ask for travel from grant, but maybe research money from department.
+
+Bill Brown, research dean on ag campus, could have money for research.
+
+Not more Co-PIs, but potentially list faculty who would be interested. Could all sign the same support letter. In narrative, describe broad reach of faculty who would be involved. **Make a table, maybe list of topic areas with folks' names**
+
+Need to figure out what the ask will be for ag campus and arts & sciences. Maybe negotiate overhead return
+
+New schedule
+
+* Budget: Dec 20
+  * 30 student-years (15 students, two years each): $30K
+  * Broader impacts
+  * Coordinator
+* Draft 1: Dec 21
+* Jan 6 meeting with group, 9 am
+* Biosketch, current and pending **Jan 13**
+* Draft 2: Jan 10, **now planned for Jan 13**
+* **Meeting Jan 18, 10 am**
+* Draft 3: Jan 16 (proposal 75% done)
+* Gap analysis: Jan 19 (proposal 90% done, budget done)
+* Cayuse begin: Jan 20
+* Cayuse done: Jan 27
+* Submit to NSF: Feb 3
 
 # 2016-12-14
 
