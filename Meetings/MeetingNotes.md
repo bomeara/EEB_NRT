@@ -6,8 +6,30 @@
 
 * Business school will charge for placements. They have experience here, but probably not worth it overall.
 * Thanos Papanicolaou of Dept of Civil and Enviro Engineering offered help with finding internships and links to existing collaborations, willing to write letter of support. I'd suggest him as a senior personnel to help with this.
-* Ernest Brothers suggested emphasis on mentorship within the program. Unable to join as senior personnel, but we can point to the [Office of Graduate Training and Mentorship](http://gradschool.utk.edu/training-and-mentorship/) for their services
+* Ernest Brothers suggested emphasis on mentorship within the program. Unable to join as senior personnel, but we can point to the [Office of Graduate Training and Mentorship](http://gradschool.utk.edu/training-and-mentorship/) for their services with recruitment & retention as well as other services.
+  * Other interesting idea: Purpose of grant is not to make mini me's: it's to train students to their own career, and this changes culture of departments. URMs and faculty must learn from each other culturally. Grant is already looking at different cultures academically, could do with other aspects.
+  * Long term outreach 
 * Word on the street is that sustainability is a key aspect of getting an NRT funded.
+* Office of Career Services will be giving us data on how many students meeting with them from our departments as grad students (spoiler: few)
+* OIRA might not be able to give us info on time to degree, because they don't know when students started.
+* Met with journalism prof: could have useful training and workshops in communication for our students.
+* Potential for university support: tuition waivers for our students (would make NSF happy), also our faculty time (other than program coordinator).
+  * **Other ideas for uni support**
+  * **Program coordinator selection**
+* Look at Summary: https://github.com/bomeara/EEB_NRT/blob/master/FinalProposal/2_ProjectSummary.docx. Looking again at intro from NSF solicitation
+   * Science, technology, engineering, and mathematics (STEM) graduate education is poised to undergo a major transformation. The drivers for change include recent major national reports that have examined the state of STEM graduate education [*Yep, that's us*]
+   * the accelerating pace of science and engineering discoveries and technological innovations [*arguably us*]
+   * national STEM workforce trends [*yep*]
+   * the growing internationalization of science and engineering [**NOPE**]
+   * the unrealized potential to align graduate education practices and models with increasing understanding of how people learn [**Not yet us**]
+   * In addition there is increasing recognition that addressing the grand challenges in science and engineering requires interdisciplinary and broader professional training that is atypical for most graduate programs. [**Yes**]
+
+Do we want to hit these more? One other thing I've been wrestling with is why the ag school isn't just the solution. They train people for applied careers (clearly not always, but to a far greater degree than liberal arts PhD programs do). **Thoughts?**
+
+### Other items
+
+Results of surveying potential internship partners
+
 
 # 2016-12-14
 
