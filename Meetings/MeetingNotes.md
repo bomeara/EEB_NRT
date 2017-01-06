@@ -1,5 +1,14 @@
 *Note: arrange with most recent at top*
 
+# 2017-01-06
+
+## Status so far
+
+* Business school will charge for placements. They have experience here, but probably not worth it overall.
+* Thanos Papanicolaou of Dept of Civil and Enviro Engineering offered help with finding internships and links to existing collaborations, willing to write letter of support. I'd suggest him as a senior personnel to help with this.
+* Ernest Brothers suggested emphasis on mentorship within the program. Unable to join as senior personnel, but we can point to the [Office of Graduate Training and Mentorship](http://gradschool.utk.edu/training-and-mentorship/) for their services
+* Word on the street is that sustainability is a key aspect of getting an NRT funded.
+
 # 2016-12-14
 
 ## Team discussion
