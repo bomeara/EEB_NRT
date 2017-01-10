@@ -84,20 +84,12 @@ Need to figure out what the ask will be for ag campus and arts & sciences. Maybe
 
 New schedule
 
-* Budget: Dec 20
-  * 30 student-years (15 students, two years each): $30K
-  * Broader impacts
-  * Coordinator
-* Draft 1: Dec 21
-* Jan 6 meeting with group, 9 am
-* Biosketch, current and pending **Jan 13**
-* Draft 2: Jan 10, **now planned for Jan 13**
-* **Meeting Jan 18, 10 am**
-* Draft 3: Jan 16 (proposal 75% done)
-* Gap analysis: Jan 19 (proposal 90% done, budget done)
-* Cayuse begin: Jan 20
-* Cayuse done: Jan 27
-* Submit to NSF: Feb 3
+Jan. 13 – First draft due, CVs, C&P, Collaborator Lists due
+Jan. 18, 10:00 a.m. – Team meeting
+Jan. 20 – Second draft due, Cayuse begins, Gaps analysis
+Jan. 23 or 24 – Pink Team Review
+Jan. 27 – Cayuse complete
+Feb. 3 – Submit
 
 # 2016-12-14
 
