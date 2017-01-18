@@ -10,6 +10,58 @@
 * Additional data
 * COI, biosketch
 * Assessment
+* Coordination with administration
+
+Add explictly Littman for communication workshop, placement of press releases.
+
+Add O'Meara summer salary, but also indicate associate head duties.
+
+Barbara Heath: draft needs more explicit goals of changes we hope for in the students. Will make email listing gaps.
+
+12% of grant budget makes sense for her budget.
+
+Travel budget from departmts?
+
+Skills workshops: data on intake, after workshop, 12 months. Barbara's team would develop followup assessments.
+
+Internships: gain skills, professional network. Maybe a linked in network graph. Measure of needed skills, see if students are gaining these skills.
+
+**Require each student committee to have members from two of the involved departments.**
+
+Track faculty and student collaborations, grant proposals, coauthorships. Students working together on papers.
+
+Have students give form for work every semester.
+
+Barbara's group will get baseline data
+
+Example network graph, perhaps: ![Image of network](http://brianomeara.info/sites/default/files/OMearaTenureEEBNetwork2014.jpg)
+
+**could list potential transformative research**: give potential projects. Tie each research area into area of industry, etc. that students will go into. Present consistently in same format. **Have the faculty identify them**
+
+Program coordinator will create a system that can be adopted by others.
+
+EPP has tracking relationships with industry as part of strategic plan.
+
+Sustainability: experience learning? But QEP runs five years.
+
+Talk to Dixie Thompson: maybe a yearly meeting with her on needs. Get letter from her.
+
+Could talk to Office of Career Services to handle records of internships
+
+See about doing public report or now.
+
+As part of sustainability: online workshop of lessons learned from the project.
+
+Data on committee memberships.
+
+Charlie will get data on graduation and placement for FWF.
+
+**Next grant proposal to them by Thurs night**
+
+Meg: education and training
+
+Everyone: do cross disciplinary proposals
+
 
 # 2017-01-06
 
