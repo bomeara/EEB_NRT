@@ -56,11 +56,21 @@ Data on committee memberships.
 
 Charlie will get data on graduation and placement for FWF.
 
-**Next grant proposal to them by Thurs night**
+**Next grant proposal to ORE by Thurs night**
 
-Meg: education and training
+Meg: education and training. Put experiential learning stuff from QEP.
 
-Everyone: do cross disciplinary proposals
+Charlie: next-gen Tewksbury et al.
+
+Everyone: do cross disciplinary proposals, link to alternative to academic careers
+
+Barbara: new evaluation section
+
+Prior NSF support from everyone
+
+**everyone**: Recent student training experiences
+
+Travel for students from depts for recruiting: yes for EEB (like for PEER), prob not for ag.
 
 
 # 2017-01-06
