@@ -1,5 +1,16 @@
 *Note: arrange with most recent at top*
 
+# 2017-01-18
+
+* Draft status
+* Budget: https://docs.google.com/spreadsheets/d/1yVo_qFXv6H6ofV9R1F7ggZS5SKBQRgk1FW74tX-23L4/edit?usp=sharing
+  * Communications? Other costs?
+* Sustainability
+* Internships
+* Additional data
+* COI, biosketch
+* Assessment
+
 # 2017-01-06
 
 ## Status so far
