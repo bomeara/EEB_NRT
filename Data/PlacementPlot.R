@@ -1,5 +1,5 @@
 library(readxl)
-data <- read_excel("/Users/bomeara/Documents/MyDocuments/GitClones/EEB_NRT/Data/Placement.xlsx")
+data <- data.frame(read_excel("/Users/bomeara/Documents/MyDocuments/GitClones/EEB_NRT/Data/Placement.xlsx"))
 setwd("/Users/bomeara/Documents/MyDocuments/GitClones/EEB_NRT/Data/")
 rownames(data) <- data[,1]
 data <- data[,-1]
@@ -18,3 +18,13 @@ legend("topright", legend=colnames(proportions), col=my.palette, fill=my.palette
 # }
 dev.off()
 system("open Placement.pdf")
+
+pdf(file="Placement2.pdf", width=12, height=5)
+par(mar=c(5,5,4,14)+.1)
+par(xpd=TRUE)
+my.palette <- c(colorRampPalette(c("red","darkred"))(3),"darkgoldenrod1", colorRampPalette(c("cadetblue1","cadetblue3"))(3), "gray") 
+#colnames(proportions) <- gsub('.', ' ', colnames(proportions))
+barplot(proportions, col=my.palette, ylab="Proportion of graduated students")
+legend(6.5,1, legend=rev(rownames(proportions)), col=rev(my.palette), fill=rev(my.palette))
+dev.off()
+system("open Placement2.pdf")
