@@ -1,5 +1,40 @@
 *Note: arrange with most recent at top*
 
+# 2017-01-24
+
+## Pink team review
+
+### Intro
+
+Figure of impacts of biodiversity. Probably existing one. Remember that committee reviewing it aren't biologists: make context. Could possibly get data. Heat map of jobs by states or something like that.
+
+Reorganize intro section. Bolder vision. **Just cut out academic training, focus entirely on alt ac.**
+
+Explain why biodiversity important, why TN
+
+Explain why alt ac
+
+Explain the X major weaknesses, and how our program fixes this. No network, so we create internships to deal with that. Etc. Then add this to evaluation.
+
+Tie goals more closely to program components. Could embed them there.
+
+Could pull out biodiversity goal and non-academic goal for each component (or not -- try, see if it works)
+
+Maybe weaknesses, goals, program components.
+
+**Look into studies on interest in alternative academic careers in biology**
+
+**Overview graphic of next gen training: Sketch and give to Kimberly**
+
+Group all biodiversity theme info together (like end of page 2).
+
+Do subheading: 1) biodiversity 2) non academic career path
+
+For bar chart figure: add text explaining this: red is nonacademic career path.
+
+
+Sustainability: how will field courses, workshops be paid for post grant. Either specifics or drop entirely. Get examples from Etnier course on aquatic insects: has people from TVA, etc. taking it. **Susan will talk to Chuck Collins about how this works, will create paragraph for this**
+
 # 2017-01-18
 
 * Draft status
