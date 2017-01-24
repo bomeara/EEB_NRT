@@ -33,7 +33,68 @@ Do subheading: 1) biodiversity 2) non academic career path
 For bar chart figure: add text explaining this: red is nonacademic career path.
 
 
-Sustainability: how will field courses, workshops be paid for post grant. Either specifics or drop entirely. Get examples from Etnier course on aquatic insects: has people from TVA, etc. taking it. **Susan will talk to Chuck Collins about how this works, will create paragraph for this**
+Sustainability: how will field courses, workshops be paid for post grant. Either specifics or drop entirely. Get examples from Etnier course on aquatic insects: has people from TVA, etc. taking it.
+**Susan will talk to Chuck Collins about how this works, will create paragraph for this**
+**Susan will talk to Etnier about examples from his course**
+
+Establish that we have timeline, coordinating with partners.
+
+New table on page 4: fill in knowledge / skills. Rewrite paragraph above.
+
+Move Table 1: graduate education requirements, up
+
+**Add science writing part to requirements**
+
+**Expand field courses substantially.** Give examples of current courses that students would have access to, and what they get out of them. Fungal, aquatic critters, Moulton insect course, field botany, wetlands ecology (taught by a graduate of EEB who owns an assessment course), fish course.
+
+A photo or two of students in the field: something that is compelling with just a couple of students in frame.
+
+Expand internships example. Have examples of undergrads in internships, how they're being managed and placed. EEB has a student who worked at the Knoxville Zoo as intern, discovered new species of salamander (**put this example in grant**).
+
+**Our broader impacts are bad so far**
+
+How will the NRT students do outreach and education to K-12, undergrads, greater knox community, and/or campus community. Pick two, describe.
+
+i.e., Poster session: engage undergrads, who will see it, what will be done. Say 50 undergrads will come, etc.
+
+Maybe as part of kids day on campus
+
+Kids U.
+
+Ag campus -- eating bugs day (community days?)
+
+**Ag day: tied in with a football game. Stand with outreach stuff**
+
+**Weave in Darwin Day, how they can engage with that.** We have peer reviewed papers on them.
+
+Could partner with PEER on posters: Cynthia Peterson poster session?
+
+Wildflower Pilgrimmage: tours of Smokies
+
+**Email gladys about PEER coordination**
+
+**Add outreach and education as a 5th element to field courses, internships, etc.**
+
+Science writing would be a sixth thing, or industry skills, workforce readiness, not broader impacts.
+
+For project roles: a figure. Have same language throughout: tiers or components
+
+### Assessment
+
+**New plan for Barbara's team by end of day Wed.** With goals finalized.
+
+## Goals
+
+Budget, all supplemental info, in by Monday, Jan 30. Polished narrative.
+
+Letter drafting info on Jan 26, then send to people to sign. Include department head letters.
+
+Deal with letters. **All letters by Feb 3**
+
+Group meeting on **9 am Feb 1**
+
+
+
 
 # 2017-01-18
 
