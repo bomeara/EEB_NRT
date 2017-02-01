@@ -27,9 +27,6 @@ Quick call for NRT on Friday, Feb 3, at 2:30 pm
 
 
 
-
-
-
 # 2017-01-24
 
 ## Pink team review
