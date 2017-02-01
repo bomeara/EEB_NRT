@@ -1,5 +1,35 @@
 *Note: arrange with most recent at top*
 
+# 2017-02-01
+
+Sharon, Brian, Meg, Charlie.
+
+Biodiversity info graphic
+
+Charlie: companies for steering committee
+
+*Zoo or Conservation fisheries*: for internship, annual joint steering committee
+
+Dept. heads guarantee lab, office space. Broader  impacts
+
+Letters by Friday
+
+Draft revisions by Friday noon
+
+**O'Meara: budget, data management plan, facilities. Current and Pending, Biosketch. Conflicts sheet.**
+
+Quick call for NRT on Friday, Feb 3, at 2:30 pm
+
+**O'Meara: Have to update project summary**
+
+
+
+
+
+
+
+
+
 # 2017-01-24
 
 ## Pink team review
