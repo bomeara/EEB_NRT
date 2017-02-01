@@ -20,7 +20,7 @@ Draft revisions by Friday noon
 
 Quick call for NRT on Friday, Feb 3, at 2:30 pm
 
-**O'Meara: Have to update project summary**
+Done **O'Meara: Have to update project summary**
 
 
 
